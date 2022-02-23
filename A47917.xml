@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon prepared to be preach'd at the internment of the renowned Observator with some remarques on his life, by the Reverend Toryrorydammeeplotshammee Younkercrape : to which is annexed an elegy and epitaph, by the Rose-Ally-Poet, and other prime wits of the age.</title>
+            <author>Younkercrape, Toryrorydammeeplotshammee.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47917</idno>
+            <idno type="STC">Wing L1305</idno>
+            <idno type="STC">ESTC R21960</idno>
+            <idno type="EEBO-CITATION">12740309</idno>
+            <idno type="OCLC">ocm 12740309</idno>
+            <idno type="VID">93117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93117)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 696:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon prepared to be preach'd at the internment of the renowned Observator with some remarques on his life, by the Reverend Toryrorydammeeplotshammee Younkercrape : to which is annexed an elegy and epitaph, by the Rose-Ally-Poet, and other prime wits of the age.</title>
+                  <author>Younkercrape, Toryrorydammeeplotshammee.</author>
+                  <author>Rose-Ally-Poet.</author>
+               </titleStmt>
+               <extent>[4], 24, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Langley Curtiss ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A parody "in Rabelaisian humor with a text from Pantagruel," on the Observator, edited by Sir Roger L'Estrange.--cf. DNB.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93117:1"/>
+            <p>A SERMON Prepared to be <hi>Preach'd</hi> at the Interment Of the Renowned Obſervator.</p>
+            <p>With ſome Remarques on his LIFE, By the Reverend <hi>Toryrorydammeeplotſhammce Younke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crape.</hi>
+            </p>
+            <p>To which is Annexed An ELEGY and EPITAPH, By the ROSE-ALLY-POET, And other Prime Wits of the Age.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Lang<g ref="char:EOLunhyphen"/>ley Curtiſs,</hi> at the Sign of Sir <hi>Edmund-Bury-Godfrey,</hi> near <hi>Fleet-Bridge.</hi> 1682.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93117:2"/>
+            <pb facs="tcp:93117:2"/>
+            <head>Thrice merry, or thrice doleful READERS. Which you pleaſe,</head>
+            <p>ACcording to your various affections peruſe theſe enſuing lines: and know that Man is a Mortal that has ſtrange fegaries and quirks, and orders his reaſon at ſuch an odd rate, that he many times makes ſport of their greateſt misfortune, their forc'd departure, and conſtraint to take leave of the Suns bright Light. There was a certain Prince, who perceiving himſelf not well belov'd by his Cour<g ref="char:EOLhyphen"/>tiers, yet not well able to diſcover who they were that bore him enmity, in regard that his Enemies had impal'd their thoughts with diſſimulation, he re<g ref="char:EOLhyphen"/>ſolv'd to pretend to fall ſick and dye; to be ſhort, ſo he did, that is to ſay, he fell ſick and died, like <hi>Endy<g ref="char:EOLhyphen"/>mion</hi> upon <hi>Latmus</hi> Hill, and was laid forth: The report of his death brought all Perſons to ſee him, his Friends to bewail him, his Enemies to rejoice. And the nit was that his ill willers open'd the wick<g ref="char:EOLhyphen"/>ets of their Breaſts; and while others ſpoke well of him, others curs'd him as heartily, calling him Tyrant, and ungrateful, and lading his memory with a hundred Scandals, and Reproaches, I'le hold five ſhillings our <hi>Obſervator</hi> had read this ſtory. For he, finding himſelf baited on all ſides like a <hi>Whitſontide</hi> Bull, reſolv'd to be for a while like an Incognito Embaſſadour in the world, that he might hear what People ſaid of him. To this pur<g ref="char:EOLhyphen"/>poſe he deſires a certain Crape Gown Gentleman to
+<pb facs="tcp:93117:3"/>make him a Funeral Sermon while he was living, that he might amend and correct his own commen<g ref="char:EOLhyphen"/>dations. The Gentleman (as who could deny the Foreman of his Faith) anſwered his expectations, and our dear <hi>Obſervator</hi> put it up in his Pocket, and goes to the Tavern. There that night it happen'd to be a dreadful <hi>Huzza</hi> night, nothing but paſt <hi>Two</hi> of the Clock could move the Company— and then the Devil of a Coach was to be got, ſo that our dear <hi>Obſervator</hi> was conſtrain'd to totter home before a Link boy— In that condition, by what unlucky ac<g ref="char:EOLhyphen"/>cident we know not, he dropt the following Papers. Heavens bleſs us quo we, is our dear <hi>Obſervator</hi> dead, and ſhall we ſtifle ſuch a Panegyric as this? <hi>Ventre diable</hi> by no means. But quo another ſup<g ref="char:EOLhyphen"/>poſe he ſhould not be dead—why then he is alive. But quo we, ſuppoſe he ſhould be dead, what injury can it be to him? ſo long as the Stationers are in being. For we know there is nothing impoſſible with God— and it may be a metaphyſical puzzlement, whether there be any thing impoſſible with a Statio<g ref="char:EOLhyphen"/>ner: for a Stationer can make a Man write after he's dead. I'le undertake that there are ſome men that have been dead theſe <hi>40</hi> years that ſhall ſtill write on upon their account till the laſt Trumpet ſounds; ſo then if by their means the <hi>Obſervator</hi> do write af<g ref="char:EOLhyphen"/>ter he's dead what injury is it for him to die or to be dead, I would fain know, for his pay runs on ſtill. For my part I am apt to believe he is dead, for his writings are the meer Skeletons of Reaſon Well but let him be dead or alive, you have it here as it dropt out of his own pocket— And Men have not the ſame priviledge that Women have. For if a Woman tell ye, ſhe's dead, you muſt not believe her; but if a Man tell you ſo, you are not to give him the lie, for fear of farther miſchief: Gentlemen I have no more to ſay i'the buſi<g ref="char:EOLhyphen"/>neſs, and ſo without farther Complements, Fare ye well.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93117:3"/>
+            <head>A FUNERAL SERMON Preached at the Interment of the Renowned OBSERVATOR.</head>
+            <epigraph>
+               <bibl>Pantagruel, L. <hi>2.</hi> c. <hi>30.</hi>
+               </bibl>
+               <q>Then <hi>Euſthenes</hi> cryed out, Ah Cruel Death, thou haſt taken from us the moſt perfect of Men, upon which <hi>Pantagruel</hi> aroſe, and betook himſelf to the grea<g ref="char:EOLhyphen"/>teſt Lamentation that ever was ſeen in the world.</q>
+            </epigraph>
+            <p>THE occaſion of theſe words my Beloved was nothing but death, the death of a certain perſon; <hi>mortuus eſt, extinguitur,</hi> as 'tis in the Original. For <hi>Pantagruel,</hi> the Son of <hi>Garagantua,</hi> the Son of <hi>Grandgouſier,</hi> was a great Gy<g ref="char:EOLhyphen"/>ant, who laid about him upon all occaſions, whe<g ref="char:EOLhyphen"/>ther it were eating or drinking, fight or ſh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and as his name was <hi>Pantagruel,</hi> ſo he repreſen<g ref="char:EOLhyphen"/>ted
+<pb n="2" facs="tcp:93117:4"/>
+               <hi>Henry the ſecond</hi> of <hi>France,</hi> as the moſt venera<g ref="char:EOLhyphen"/>ble notes upon our excellent Author declare, &amp; his adherents were call'd <hi>Pantagrueliſts,</hi> or <hi>Pope<g ref="char:EOLhyphen"/>lings,</hi> and he warred againſt he <hi>Andoullians,</hi> who were the true <hi>Evangelics.</hi> Now to bring the buſi<g ref="char:EOLhyphen"/>neſs down to our times, the Pantagrueliſts were <hi>Tories</hi> or <hi>Popelings,</hi> and the <hi>Andoullians</hi> were <hi>Whigs</hi> or <hi>Evangelics</hi> according to thoſe wicked diſtinctions that are now uſed among us. As for our vene<g ref="char:EOLhyphen"/>rable Author himſelf, he was a great Doctor in his Time, and a great <hi>Evangelic</hi> or <hi>Whig,</hi> for he refus'd to kiſs the Pope's Toe, as you may read in his Life, for which he ſuffer'd much Tri<g ref="char:EOLhyphen"/>bulation, according to his demerits. As for the Book it ſelf, it is therefore called <hi>Pantagruel,</hi> be<g ref="char:EOLhyphen"/>cauſe therein our venerable Author recites the Acts of the great <hi>Pantagruel,</hi> as the Books of the <hi>Maccabees,</hi> are ſo called, becauſe they relate the Attchievements of the <hi>Maccabean</hi> Brethren. As for the Perſon that the great <hi>Euſthenes,</hi> and the famous <hi>Pantagruel</hi> here lament, he was calld <hi>Panurgus,</hi> that is to ſay (for I have not been ſo long a Diſciple in the Colledge of the Infe<g ref="char:EOLhyphen"/>riour Clergy, where our deceaſed Brother ſate Regent, but I underſtand many pretty knick<g ref="char:EOLhyphen"/>nacks, eſpecially thoſe of Etymologies) one that would be a <hi>Dominus Factotum,</hi> a <hi>Polypragmon,</hi> as it is in the Greek, in Engliſh a Buſie-body.
+<pb n="3" facs="tcp:93117:4"/>In another ſenſe it ſignifies a crafty cunning Companion. And thus <hi>Jupiter</hi> in <hi>Lucian</hi>'s ſecond Dialogue of the Gods, reproaches <hi>Cupid</hi> with the Epithites of <hi>Geron</hi> and <hi>Panurgus,</hi> old and deceitfully cunning. So that upon good authori<g ref="char:EOLhyphen"/>ty you may take <hi>Panurgus</hi> for a Buſie-body, or a great Deceiver, which you pleaſe, it being at your choice.</p>
+            <p>To this ſame <hi>Panurgus</hi> our once Divine <hi>Obſer<g ref="char:EOLhyphen"/>vator,</hi> and dear Brother here departed, and now going to his long home, may be very juſtly re<g ref="char:EOLhyphen"/>ſembled. <hi>Panurgus</hi> became famous by main<g ref="char:EOLhyphen"/>taining diſputes; he confuted a man of all ſorts of Sciences, once by the motion of his fingers. And what has not our <hi>Obſervator</hi> done by his <hi>Proing</hi> and <hi>Conning?</hi> Has he not wrought miracles? has he not con<g ref="char:EOLhyphen"/>futed all the <hi>Andoullians,</hi> that elſe would have over-ran the Kingdom like ſo many Lo<g ref="char:EOLhyphen"/>cuſts, and caus'd all the Enemies of the <hi>Panta<g ref="char:EOLhyphen"/>gruelians</hi> to piſs Vinegar? Yes marry has he— yes, my beloved, I ſay he has done it, don't to purpoſe too, or as I may ſay, with a vengeance. Nay ſuch was the reverence which the Panta<g ref="char:EOLhyphen"/>gruelians and Papiſhes had for him, that had he liv'd a little longer (and a thouſand pities it was he did not) a certain day in the year was to have been ſet apart, at what time all the Panta<g ref="char:EOLhyphen"/>gruelians
+<pb n="4" facs="tcp:93117:5"/>and Papiſhes were to have met our dear Brother by the name of the moſt invinci<g ref="char:EOLhyphen"/>ble <hi>Obſervator,</hi> and he was to have met them; and then was he to have pull'd down his Bree<g ref="char:EOLhyphen"/>ches in moſt ſolemn manner, and they in like ſolemn manner were to have kneel'd, and kiſs't his bare Buttocks, and then they were to have had a Sermon, and to have gone to Dinner at the <hi>Half-Moon</hi> in <hi>Cheapſide</hi>— and the day itſelf was to have been call'd <hi>Baiſe-cul or Kiſs-nock</hi> Day.</p>
+            <p>In the ſecond place <hi>Panurgus</hi> was enamour'd of a great Lady in <hi>Paris;</hi> but when ſhe fell out with him, and ſlighted his kindneſſes, wo worth the Lady, ſuch ill luck betided her. For by vertue of a certain Drug which <hi>Panurgus</hi> ſtrew'd upon her Garment, and the Folds of her Sleeves, as he kneel'd by her at Prayers, all the Dogs i'the Church, both great and ſmall of all ſorts, came and piſs'd upon her cloaths, and ſpoyl'd her a Crimſon Sattin Petticoat, and a rich white Velvet Juſt-a-core. In the ſame manner our dear Brother, rather our Grand Maſter of <hi>Rhodes,</hi> that beat down all before him with the <hi>Club</hi> of <hi>Obſervation,</hi> was enamour'd of a Lady, and they lov'd one another, and careſs'd one another, and <hi>culebuted</hi> together for ſeveral years, till at length, unhappy and unfortunate as ſhe was, ſhe fell out with him according to
+<pb n="5" facs="tcp:93117:5"/>the cuſtom of female Inconſtancy. But what was the fatal event? Town-buzzing, and Town-talk, ſlur, blur, pur— whur— finger— pointing— ſneering, fleering— Hum for that, <hi>&amp;c.</hi> and all becauſe the Lady refuſed to ſettle the land upon him.</p>
+            <p>In the next place <hi>Panurgus</hi> came to be a Car<g ref="char:EOLhyphen"/>dinal. For by that name, as our Author of Bleſ<g ref="char:EOLhyphen"/>ſed Memory would have it, is meant the Car<g ref="char:EOLhyphen"/>dinal <hi>D' Amboyſe.</hi> And why was he made a Car<g ref="char:EOLhyphen"/>dinal? Why, for inventing a way of arguing without ſenſe or reaſon, by which he not only gravel'd the <hi>Engliſh</hi> Philoſopher, as you ſhall find in the 19th <hi>ch.</hi> Book ſecond, <hi>v.</hi> 22. but alſo gravel'd and confounded ſeveral Devils themſelves. <hi>ch.</hi> 18. <hi>v.</hi> 33. And this he did after he had been drinking all night, and playing at <hi>Spurn point</hi> with the Pages. At another time out of the profoundneſs of his Kitchin learning, he diſcovered the great Myſtery concerning ſalt Beef, which lay hid till then under a ſtrange Cabaliſtical Trifle, and publickly maintain'd, that the ſooner the Monks roſe, the ſooner the Pot was ſet on; the ſooner the Pot was ſet on, the ſooner the Meat would be boyl'd; the lon<g ref="char:EOLhyphen"/>ger it boyl'd, the better it would be; the better it was boyl'd, the tenderer 'twould be, and the more acceptable to the Stomach; the more ac<g ref="char:EOLhyphen"/>ceptable, the more nouriſhing.</p>
+            <pb n="6" facs="tcp:93117:6"/>
+            <p>By ſuch idle methods of Argumentizing as theſe did our deceaſed Brother endeavour Tooth and Nail to acquire fame, and a Cardinals Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. He had read how <hi>Poole, Bellay,</hi> and others, had the Honour to be damn'd in Scarlet, as Anti<g ref="char:EOLhyphen"/>chriſts Nobles, for their indefatigable Induſtry in die Popes Service, and a Cardinals Cap he had had, my beloved, as ſure as a Gun, had not that Hag of a Spinſter <hi>Atropos</hi> clipt, I will not ſay the plain Thread, but the ſilken twiſt of his Immortality-deſerving life, juſt in the very juncture of Time, or as I may ſo ſay, in the very nick: juſt when the Roman Catholick Lords in the <hi>Tower</hi> had concluded upon the buſineſs: and there's no Man can think they could have fail'd of their interceſſions at <hi>Rome.</hi> Nay I dare ſay my Beloved, the Lord <hi>Stafford</hi> himſelf would have riſen again, rather than he ſhould have gone without it. And did he not deſerve a Princely Purple Diademd' ye think? Has he not from the firſt beginning, or at leaſt as ſoon as he durſt for his Ears, been always ſnarling at the Plot; has he not done all that lay in hispower to ridicule and render the Kings Evidence contemptible, to the inexpreſſible joy, rejoycing, gladneſs, com<g ref="char:EOLhyphen"/>fort, jocundneſs, delight, and pleaſure of the drooping &amp; every where detected Offenders, who had no friend to ſpeak a good word in their
+<pb n="7" facs="tcp:93117:6"/>cauſe, till our deceaſed Brother here, God reſt his Soul, firſt open'd for Madam <hi>Cellier,</hi> and her Presbyterian Plot? Has he not to this purpoſe fill'd the Town and Country with his weekly, I may ſay almoſt daylyſhreads of Waſt paper, ſtufft with <hi>Flim</hi> and <hi>Flam,</hi> Tales of roſted Horſes, An<g ref="char:EOLhyphen"/>tipendiums and Screws? Has he not laboured, like <hi>Siſyphus</hi> in Hell, to engage the Nation in a univerſal quarrel about his pitiful perſonal peeks, and ſilly foppiſh, idle and impertinent ſquabbles, and brabbles about Goats Wool? all about <hi>Papiſt</hi> or no <hi>Papiſt?</hi> And yet you may well believe, my beloved, that of twenty parts of the Nation, hardly eighteen ever car'd a ſtraw whether he were a Papiſt or a Pipin-ſeller. Again, my beloved, was it not his weekly pra<g ref="char:EOLhyphen"/>ctice, that he might render himſelf redoubted and formidable to his Antagoniſts, the Enemies of Popery and Sham-Plots, like the <hi>Devil</hi> in <hi>Iſaiah,</hi> to exalt himſelf upon the <hi>Mountain of the Congregation,</hi> to blazon his Gentility and his Parts, and like the Son of <hi>Vain-glory</hi> and <hi>ſelf-conceit,</hi> to cry with <hi>Oliver, Nemo me impune laceſſit,</hi> and make Inſtances upon it? On the other ſide, to degrade and debaſe his Oppoſers, to render 'em ridicu<g ref="char:EOLhyphen"/>louſly contemptible, and to reduce 'em to Mites and Atomes, has he not all along outſcolded <hi>Billingſgate,</hi> and outrail'd all the Courſe Com<g ref="char:EOLhyphen"/>plements
+<pb n="8" facs="tcp:93117:7"/>of <hi>Blooms-bury,</hi> and <hi>Luteners-lane?</hi> Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he not taken upon him to be the Phaenix of ut<g ref="char:EOLhyphen"/>terance? Has he not taught the world in a moſt gentile and argumentative way to confound the <hi>Andoullians,</hi> or <hi>Whigs</hi> and <hi>Diſſenters,</hi> with the con<g ref="char:EOLhyphen"/>vincing Epithites of <hi>Rogues,</hi> ſawcy <hi>Raſcals, Cox<g ref="char:EOLhyphen"/>combs, Monkies, Fools, ſpawn</hi> of the Devil, <hi>Scrib<g ref="char:EOLhyphen"/>ling Varlets,</hi> and comparing their expreſſions to the filth and naſtineſs of <hi>Piſs-pots, Cloſe-ſtools</hi> and <hi>Common-ſhoars,</hi> the certain effects of foul mouth'd Dotage, peeviſh Choler, and want o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> better Reaſon? Has he not outdone <hi>Ramus</hi> and <hi>Burgersdicius, Smith</hi> and <hi>Keckerman</hi> in his impreg<g ref="char:EOLhyphen"/>nable Syllogiſms of Ye lie, 'tis falſe, may I be damn'd if it be true, may my Soul be delive<g ref="char:EOLunhyphen"/>red up at the laſt day if it be ſo, with ſevera<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other <hi>Ferio</hi>'s and <hi>Darapti</hi>'s of the ſame nature<g ref="char:punc">▪</g> the bold daſhes of an Arbitrary Pen? Has he not by this means ſtiffly defended the gaſping cauſe of Popery in this Nation, and furniſh'd the Traytors themſelves with words at leaſt, if no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Arguments, to defend and juſtifie thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Treaſons? True it is, there are thouſands, who belive that <hi>Oats</hi> and <hi>Prance</hi> have done their King and Country better ſervice than ever our dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Brother, with all his Gentility and Grandeur or all his huffing and puffing and ſnarling a<g ref="char:EOLhyphen"/>gainſt Parliament Priviledges, could ever pre<g ref="char:EOLhyphen"/>tend
+<pb n="9" facs="tcp:93117:7"/>to, and I am apt to believe it among the reſt. But the never aim'd at Cardinals Caps. 'Twas the Cardinals Cap that our dear Bro<g ref="char:EOLhyphen"/>ther had in his Head. I have wiſh'd it upon his Head an hundred times. However my beloved, ſince he miſs'd this ſame Hat of Eminency in this world, I make no queſtion but he will have one in the other world, and that not an ordina<g ref="char:EOLhyphen"/>ry Hat neither, but a Hat, a Princely Hat, of the beſt faſhion, a Hat with Toſſels, a Hat with Toſſels, my beloved—Amen, ſo be it—</p>
+            <p>
+               <hi>Hum</hi>—<hi>Hum</hi>—<hi>Hum</hi>—<hi>Hum</hi>—<hi>Hum</hi>—<hi>Hum</hi>— <hi>Hum</hi>—<hi>Hum</hi>—<hi>Hum</hi>—</p>
+            <p>I come now to open the words themſelves— Then <hi>Euſthenes</hi> cry'd out, <hi>Ah Cruel Death, thou haſt taken from us the moſt perfect of Men;</hi> How! the moſt perfect of Men That is my beloved the moſt perfect in his way; in his calling or profeſſion, and thus he was the moſt perfect <hi>Obſervator</hi> in Europe. For he obſerv'd many things that no body could obſerve but himſelf. For he could obſerve a mote in a <hi>Whigs</hi> Eye no bigger than a Pins point; he obſerv'd Schiſm and Faction a<g ref="char:EOLhyphen"/>mong thouſands that never dream't of it: He obſerv'd a Presbyterian Plot among thoſe that never thought of it; by which means he attain'd to many great perfections, as <hi>Paſquilling, Libelling, inflaming, Bouteſewing, Scolding, &amp;c. Railing,</hi> which
+<pb n="10" facs="tcp:93117:8"/>ſo increas'd his fame, that by general conſent he was acknowledg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, Yerker, Firker, Whip<g ref="char:EOLhyphen"/>ſter, Scribler General of <hi>Tory-Land.</hi>
+            </p>
+            <p>And now I have mentioned the word <hi>Whip<g ref="char:EOLhyphen"/>ſter,</hi> I muſt tell ye my beloved, he was the beſt <hi>Whipſter</hi> in <hi>England.</hi> For the time was, when he whipt Cats into Civility. 'Twas when he was a Youth, my beloved, and then he kept Birds, and then his Neighbours Cats came and kill'd his Birds; and then he kill'd his Neighbours Cats. Then came his Neighbours and ſaid, why do you kill our Cats? and he anſwered and ſaid, why do your Cats kill my Birds? This had like to have made as great a Diviſion between our dear Brother and his Neighbours, as between <hi>Whig</hi> and <hi>Tory;</hi> till at length the Heavens found out a happy way of reconciliation. For ſaid one among the reſt, reverend for his grey hairs, and his grave utterance, if our Cats come any more to devour your Birds, there is a milder way to be taken, ſo that neither we may loſe our Cats nor you your Birds: Sir, when any of our Cats came again to kill your Birds, do but catch the Cats, whip 'em well, and rub their Noſes againſt the Cages, and the Cats will never come near your Birds any more. For Sir, as the burnt Child dreads the fire, ſo our whip'd Cats will dread your <hi>Catt-a-nine-tails</hi>— obſerve this ever
+<pb n="11" facs="tcp:93117:8"/>while you live. This advice proceeding from one of the <hi>Neſtor</hi>'s of the Pariſh, he took it: ſo that when any of his Neighbours Cats came to kill his Birds, as I ſaid before, he was ſtill too cunning for 'em, and caught 'em; and when he had 'em, 'twas not all their mewing, or ſpitting, or ſcratching would ſerve their turn, he gave them School Correction, and taught 'em the ſad inconvenience of watching his Cages. Howe<g ref="char:EOLhyphen"/>ver I muſt needs ſay this for him, that in whip<g ref="char:EOLhyphen"/>ping thoſe Cats he us'd that moderation, and did it with that prudence and equal ballance be<g ref="char:EOLhyphen"/>tween Rigor and Compaſſion, that it was won<g ref="char:EOLhyphen"/>derful to behold in a Youth of his years: and it got him that renown, that there was hardly a Cat in the Pariſh that had ſtolen a piece of Cheeſe, or a bit of Bacon, or had broken an Earthen Pipkin in her privy ſearches of the But<g ref="char:EOLhyphen"/>tery Shelves, but was brought to our dear Bro<g ref="char:EOLhyphen"/>ther to be whipt. Upon which the Soothſayers being conſulted, they all agreed, that as <hi>Midas</hi>'s wealth, and <hi>Plato</hi>'s Eloquence were portended, the one by the <hi>Emets,</hi> the other by the <hi>Bees</hi> that fed them with Wheat and Hony in their Cra<g ref="char:EOLhyphen"/>dles, ſo that <hi>Cat-whipping prudence</hi> was look'd on as a prognoſtication of our dear Brothers future Grandeur, and that as the Cats had been refor<g ref="char:EOLhyphen"/>med by the laſhes of his Hand, ſo the <hi>Whigs</hi>
+               <pb n="12" facs="tcp:93117:9"/>ſhould be reformed by the laſhes of his Pen.</p>
+            <p>This Man, this Perſon of theſe perfections has Death, Cruel Death taken from us. Death himſelf is turn'd <hi>Whig,</hi> to deprive the Tories of their Darling and their Idol. The <hi>Thamuz,</hi> the <hi>Adonis</hi> of Toryland is departed, Death, <hi>Cruel</hi> Death, <hi>Factious, Schiſmatical, Presbyterian</hi> Death has taken him away from us: Let the Virgins of Toryland bewail him annually among the Mountains.</p>
+            <q>
+               <l>Ailina moi ſtonacheite napai, Kai Dono Hydor</l>
+               <l>Kai potamoi Klaioite ton Himeroenta Biona.</l>
+            </q>
+            <p>Henceforth may Coffee loſe its vertue, and Tea it's operation, ſince he is gone, that was the Soul of all Coffee-Houſes, and the delight of thoſe that love to dung and read at the ſame time.</p>
+            <p>
+               <hi>Hum, hum, hum</hi>—</p>
+            <p>But now, we would fain know what Death has done with him? Death has got him in his clutches, and therefore, I ſay, what has he done with him? Heaven forbid that Death in a pee<g ref="char:EOLhyphen"/>viſh humour ſhould have taken our dear Bro<g ref="char:EOLhyphen"/>ther at his word; for he has promiſed, (that's the truth on't) to <hi>deliver up his Soul to the Devil at the laſt day,</hi> and given it under his hand in writing:
+<pb n="13" facs="tcp:93117:9"/>ſo that whether the Devil will ſtay ſo long, or be ſo critical, as to take the <hi>laſt day,</hi> for the <hi>laſt day</hi> of his life, is the Queſtion. And then again whether the Papiſts will admit him into Purga<g ref="char:EOLhyphen"/>tory, ſince he has renounced their Religion with ſuch a teſty, nonſenſical imprecation is another queſtion. For I muſt confeſs, 'tis my opinion that all the world ought ſooner to believe <hi>Prance</hi> upon the cuſtomary way of aſſertion upon Oath, than our dear Brother upon a hot-headed piece of Choleric, and extrajudicial fu<g ref="char:EOLhyphen"/>ry, or rather extravagant Rodomontado of <hi>Tipſy Infuſion.</hi> But we hope that neither the Pope nor his Jeſuits will be ſo ungentile as to take notice of the failings of his Age, conſidering the good Service he has done 'em. For he only renounc'd the Queens Chapple, and not Popery nor Pur<g ref="char:EOLhyphen"/>gatory; He had a defference we hope for that <hi>White Fryars</hi> of the <hi>other World,</hi> where Heavens debtors can lie till they have compounded with Heaven; or elſe find an opportunity to give <hi>Beel<g ref="char:EOLhyphen"/>zebub</hi> the bag, by ſlipping out at the back door into <hi>Abrahams Boſom.</hi> And there it is that we al<g ref="char:EOLhyphen"/>ſo hope our dear Brother will call and ſtay by the way, rather than <hi>deliver up his Soul,</hi> ſo raſhly as he talks of, as if he were to do a kind Act in diſcharge of his Bail. We may flatter our ſelves, that <hi>Pluto</hi> will entertain him
+<pb n="14" facs="tcp:93117:10"/>like a Gentleman, let him deliver himſelf up when he pleaſes; but when we conſider how he u<g ref="char:EOLhyphen"/>ſes our dear Brothers Betters, <hi>Xerxes</hi> being in Hell, no more than a cryer of Muſtard, <hi>Hannibal,</hi> a ſeller of Egg-ſhells, <hi>Priamus</hi> a ſhailler of Beans, <hi>Pope Alexander</hi> a Rat-catcher, and <hi>Boniface the Eighth</hi> a Chimney-Sweeper, it would grieve us my be<g ref="char:EOLhyphen"/>loved to meet our dear Brother hereafter in the Stygian ſhades, walking with a <hi>long ſtick</hi> upon his ſhoulders. But we hope that the Popiſh Lords have taken care of his future happineſs as well as they did of his content in this world. However while we are in theſe Dilemma's in the midſt of theſe fears, doubts and jealouſies concerning our dear Brothers uncertain conditi<g ref="char:EOLhyphen"/>on, we may well cry out with the great Euſt<g ref="char:EOLhyphen"/>henes, <hi>Ah Cruel Death, that haſt taken from us the moſt perfect of Men.</hi>
+            </p>
+            <p>
+               <hi>Hum— Hum— Hum—</hi>
+            </p>
+            <p>'Tis true, no Man can attain to perfection in this world; but our dear Brother had excellen<g ref="char:EOLhyphen"/>cies peculiar to himſelf, and therefore we may account him in ſome meaſure perfect as I have ſaid already. Pray my beloved do not cavil with me about a word or two, when us'd to ſo good an end as the praiſe of our deceaſed Brother. He was the moſt excellent <hi>guide</hi> to the <hi>Inferiour Clergy</hi> that ever our Land produc'd. He walk'd
+<pb n="15" facs="tcp:93117:10"/>before 'em like a ſumptuous <hi>Fore-Horſe</hi> in Peaſ<g ref="char:EOLhyphen"/>cod time, and lead 'em along as he pleas'd him<g ref="char:EOLhyphen"/>ſelf with the Harmonious gingling of his pain<g ref="char:EOLhyphen"/>ted Collar. So that if any thing were wanting to this extraordinary Train, it was only that Celeſtial Conſtellation call'd <hi>Auriga,</hi> or the Car<g ref="char:EOLhyphen"/>ter, with his heavenly <hi>Geeho</hi>'s and <hi>Haitho</hi>'s for their <hi>Dri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. Cambridge</hi> was not ignorant of this; and therefore was he by one of their Members quoted at St. <hi>Maries</hi> for an <hi>Author.</hi> Oh the Lear<g ref="char:EOLhyphen"/>ned, the Great, the bleſſed <hi>Obſervator;</hi> who knows but that in time he may ſtand in compe<g ref="char:EOLhyphen"/>tition with St. <hi>Ambroſe,</hi> St. <hi>Auſtin,</hi> and St. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome?</hi> I remember, my beloved, I have read of a certain Bird called <hi>Onocrotalus,</hi> a Bird reſem<g ref="char:EOLhyphen"/>bling a Swan in ſhape and bigneſs, but moſt ſo<g ref="char:EOLhyphen"/>norouſly braying like an Aſs. Ah—my beloved was not our dear Brother the Swan of our Age—</p>
+            <q>Rara Avis in Terris Nigroque ſimillima Cygno.</q>
+            <p>And then again how ſweetly has he <hi>brayd</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Whigs</hi> once, twice, ſometimes thrice a week? I ſay he brayd ſweetly, gentilely, not like a Beaſt, but like a Bird: And why did he chooſe to bray my beloved? Oh my beloved he knew that the Whigs were a kind of <hi>Aegithi,</hi> or <hi>Hawks,</hi> that is to ſay, Birds of prey, that built
+<pb n="16" facs="tcp:93117:11"/>their Neſts among Thorns and Briars, that is a<g ref="char:EOLhyphen"/>mong Factions and Fractions, and that there was nothing ſo terrible to thoſe <hi>Hawks</hi> as the bray<g ref="char:EOLhyphen"/>ing of an Aſs; in ſo much that if they do but hear an Aſs bray, they will ſpoyl their own Neſts, and break their own Eggs out of meer fear and aſtoniſhment. Therefore my beloved, our dear Brother choſe to <hi>bray:</hi> to the end he might ſcare the Whigs from their <hi>Neſts,</hi> their Clubs and their Conventicles, and cauſe them to break their own Eggs, their Deſigns and their Plots and Contrivances. Ah my beloved, was there ever ſuch an <hi>Onocrotalus</hi> as this? Heaven ſend us more ſuch <hi>Onocrotalus</hi>'s as thefe—</p>
+            <p>
+               <hi>Hum—Hum—Hum—</hi>
+            </p>
+            <p>But 'tis our comfort my beloved, he deceas'd in a good old Age; and tho he did not die a Martyr, yet he died as like one as five pence to a groat. He had many Enemies my be<g ref="char:EOLhyphen"/>loved. And indeed there is hardly any crea<g ref="char:EOLhyphen"/>ture either in the Water or the Air, or upon the Land, but has its peculiar Enemy. The Swan and the Eagle are always at Daggers drawing, ſo are the Weaſel and the Crow, the Lyon and the Wolf. In the ſame manner did our dear Brother live in perpetual Antipa<g ref="char:EOLhyphen"/>thy with one or other to his dying, day. His Hand was againſt every body, and every bodies
+<pb n="17" facs="tcp:93117:11"/>Hand againſt him. On the one ſide the <hi>Cares</hi> and the <hi>Curtiſſ</hi>'s; on the other by the <hi>Baldwin</hi>'s and <hi>Janeway</hi>'s. Had he not been a right met<g ref="char:EOLhyphen"/>led <hi>Towzer</hi> indeed, they had worryed him to death. One tells him of his Coach and ſix Horſes, which he kept by vertue of <hi>Phil-Por<g ref="char:EOLhyphen"/>ters</hi> Motto. Another rubs him up with the tale of the Printers Wife, to whom he had promis'd peculiar immunities when it was in his power, would ſhe have condeſcended to have been his <hi>Elderſhips Suſanna.</hi> Another twits him with the twenty pieces reconcilia<g ref="char:EOLhyphen"/>tion with the Bookſeller near <hi>Mercers Chappel,</hi> upon which followed a Ceſſation of his Maſters ſuit that employed him. Another ſwears him a Papiſt, nay another would have ſworn him into a Plot to deſtroy the Plot itſelf. Laſtly, when he thought to have thrown off all theſe things by taking the Sacrament, up ſtarts another and takes the Sacrament with him in juſtification of what he had ſworn, and ſo ſpoil'd all again. Theſe and many other ſuch ſnubs and rubs, and whirrets o'the Ear of his Reputation, were enough to have ſunk a Perſon of a ſofter and milder temper long e're this. But <hi>ne Hercules contra duos;</hi>
+               <pb n="18" facs="tcp:93117:12"/>had he been <hi>Towner</hi> with as many heads as <hi>Cerberus,</hi> they would have worryed him at length; for I find they were reſolved upon it. I wiſh theſe <hi>Butters a<g ref="char:EOLhyphen"/>gainſt Anti-Chriſt</hi> may not have cauſe to repent it, and I hope to ſee the day when theſe Greek Kalends ſhall come. Thoſe Grecian Kalends I have heard much talk of: O may the Sun and Moon bring 'em quickly about, that we may be at once avenged for the loſs of our dear Brother, for he is gone, the moſt perfect of Men. He that, as it is ſaid of the great <hi>Xenomanes</hi> had a memory that was like a Col<g ref="char:EOLhyphen"/>lonels Scarf, that would carry away a whole voyder of Sweet-meats at a time. An imagina<g ref="char:EOLunhyphen"/>tion like the jangling of a Country Steeple; whoſe thoughts were like a flight of Tel<g ref="char:EOLhyphen"/>fares; an underſtanding, like a torn prayer book; conceits like thoſe of a Snail creeping out of a Strawbery Bed; the judgment of a ſhooing Horn; the diſcretion of a pair of Childrens mittens, and the reaſon of a <hi>Bartholomew</hi> fair Drum. And now my beloved let us weep a while over the Hearſe of this great Perſon. May his emmory laſt as long as the Skeletons in
+<pb n="19" facs="tcp:93117:12"/>St. <hi>Johns</hi> Library. He that offers to wipe with an <hi>Obſervator,</hi> may the piles vex him to his Grave. And may that Grocer break, and all his Plums rot, that uſes thoſe ho<g ref="char:EOLhyphen"/>ly ſheets for waſt paper. And may all Waſh-balls moulder to dirt that ſhall ever be wrapt up in Whig and Tory. May they have the ſame charms as the Hankerchers dip't in <hi>Staffords</hi> blood, to cure the Meazles in Hogs, and the Pip in Chickens.</p>
+            <p>Laftly, my beloved, carry theſe dear Relicks of his fame alwaies about ye, like <hi>Ziſca</hi>'s Skin, as a terrour to the <hi>Whigs.</hi> So may our dear Brother live in his Eter<g ref="char:EOLhyphen"/>niz'd Lines, whom otherwiſe I fear me, this Ingrateful Age will ſoon forget.</p>
+            <p>But my beloved after all this there are a ſort of People, that though they will not deny him to have been dead, yet obſti<g ref="char:EOLhyphen"/>nately affirm him to have been come to life again. For ſay they, ſhould not ſo great a Hero as our <hi>Obſervator</hi> have as much priviledge as <hi>Lucian</hi> allows to <hi>Her<g ref="char:EOLhyphen"/>cules, Orpheus</hi> and <hi>Ulyſſes.</hi> Nay we find how the barking ſnarling <hi>Menippus</hi> cheated that ſame Devil of a Sculler Chavan himſelf,
+<pb n="20" facs="tcp:93117:13"/>under the diſguiſe of a Lyons skin, and a Club in his hand. And indeed my belo<g ref="char:EOLhyphen"/>ved the world is grown to that paſs now, that men are become ſo vaſtly ſpiritualiz'd in craft and cunning, that it could be no diſgrace for the Devil to be cheated by ſuch a one as the <hi>Obſerva<g ref="char:EOLhyphen"/>tor,</hi> a Perſon that exceeded the Tyrant of <hi>Orcus</hi> in cunning and Romancing as much as that Infernal Monarch exceeded <hi>Jack Adams,</hi> or the Author of <hi>Valentine and Or<g ref="char:EOLhyphen"/>ſon,</hi> So that why he might not have the ſame Priviledge as Hercules, as being ſo great a Champion as he is; or as <hi>Orpheus</hi> being ſo great a Muſitian as he is; or as <hi>U<g ref="char:EOLhyphen"/>lyſſes,</hi> being ſo eloquent and mellifluous, ſo vanquiſhing and perſuaſive an Orator as he is, that is to ſay, to go to Hell, and come back again, is more then I un<g ref="char:EOLhyphen"/>derſtand. For as for <hi>Charon,</hi> there's no Man had more reaſon to be civil, and careſs our dear Brother the <hi>Obſervator</hi> than he had, in regard that he was once an <hi>Obſervator</hi> himſelf. The Story is this my Beloved; (for you never knew a right Ser<g ref="char:EOLhyphen"/>mon without a Story) <hi>Charon</hi> having a mind to behold what buſie Mortals did in
+<pb n="21" facs="tcp:93117:13"/>this world, and what theſe things were of which they complain'd and houl'd ſo much to be deprived of in the other, he got <hi>Mercury</hi> to help him; who after much en<g ref="char:EOLhyphen"/>treaty did ſo, and ſo they two together ſet three or four high Mountains one upon another, from whence, as from a high Beacon, <hi>Charon</hi> had a full proſpect of the whole Earth, and the vaſt Lake that encom<g ref="char:EOLhyphen"/>paſſes it: then he beheld the ſeveral ſwarms of Mortals in their little Neſts, or rather Hives, call'd Towns and Cities. There he had a full view alſo of the folly of Regal Pomp and Riches; the vanity of worldly wiſdom, the Errours and confuſi<g ref="char:EOLhyphen"/>ons among Philoſophers. There he be<g ref="char:EOLhyphen"/>held the buſie multitudes of Hopes and Fears, Madneſs, Pleaſure, Avarice, Anger, Hatred, and Jealouſie, that plague and vex the world: and after he had obſerv'd as much as he could obſerve, <hi>Mercury</hi> and the Ferry-Man ſet the Mountains again in their places, and ſo the <hi>Obſervator Charon</hi> re<g ref="char:EOLhyphen"/>turned to his Employment, ſo then it is plain that many Perſons of Fame and re<g ref="char:EOLhyphen"/>nown did make a journy to <hi>Hell,</hi> and re<g ref="char:EOLhyphen"/>turn'd back again, and why our <hi>Obſervator</hi>
+               <pb n="22" facs="tcp:93117:14"/>ſo renowned, and ſo famous, ſhould not have the ſame priviledge, as I ſaid before, is a thing hardly to be believed, eſpecial<g ref="char:EOLhyphen"/>ly having two ſuch good friends upon the Shore of the <hi>Stygian Ferry,</hi> as <hi>Mercu<g ref="char:EOLhyphen"/>ry</hi> the vafrous, and <hi>Charon</hi> his Brother <hi>Obſer<g ref="char:EOLhyphen"/>vator,</hi> who would not refuſe him any kind<g ref="char:EOLhyphen"/>neſs that lay in their Power.</p>
+            <p>Others there are that ſay he was too haſtily Interr'd; ſo that when he heard the Stones and the Brick-bats rattle about his Ears upon uttering the words <hi>Duſt to Duſt,</hi> he made a noiſe in the Coffin, and ſo was taken out again, like the Woman in <hi>Suſſex</hi> to lead a new life in the old World.</p>
+            <p>Another ſort there are who affirm, that they heard him cough in his Grave, as being one that us'd to drink in his Por<g ref="char:EOLhyphen"/>ridge; which occaſioned his miraculous deliverance. But theſe my Beloved I fear me are meer ſurmizes, flaſhes and conceits of thoſe that fain would have it ſo, as I among the reſt could wiſh they were; and not meer ſtories like thoſe of his own writing. Alaſs for he is certainly departed. He and his
+<pb n="23" facs="tcp:93117:14"/>Friend <hi>Quevedo,</hi> now I think on't, went together into the other world ſome years ſince, to make new diſcoveries: and ſome few they made; but going to make more, were never heard of again.</p>
+            <p>But you will ſay we have ſeveral <hi>Ob<g ref="char:EOLhyphen"/>ſervators</hi> come out every week. 'Tis very true, a company of dull flat heavy Dialogues between <hi>Tory</hi> and <hi>Whig,</hi> with<g ref="char:EOLhyphen"/>out life or ſoul, not worth the glance of a Mans Eye; which is the more to be wondred at, conſidering how many ſeve<g ref="char:EOLhyphen"/>ral notions of other men, poſted every foot in the Coffee-Houſe Leiger Book, go to the forming and ſhaping of one non<g ref="char:EOLhyphen"/>ſenſical half ſheet, wherein you are bound not to forget the <hi>Screws,</hi> and an Ironical <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t upon Dr. <hi>Oats,</hi> of no concernment to any body elſe, either publick or private, but thoſe that are afraid of their Teſtimony.</p>
+            <p>But let the <hi>Obſervator</hi> be dead or a<g ref="char:EOLhyphen"/>live, 'tis not a half-penny matter, you have heard the reaſon of this <hi>Memento Mori:</hi> Neither is it an unuſual thing for great Perſons to have their Tombs and Monuments erected in their life Times.
+<pb n="24" facs="tcp:93117:15"/>However 'tis moſt certain he muſt die at one time or other, and he had as good make uſe of this kind Encomium, as impoſe upon his Executors to pay two broad pieces for another that may prove worſe.</p>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:93117:15"/>
+            <head>An ELEGY UPON THE Right Reverend THE OBSERVATOR, Guide to the Inferiour Clergy.</head>
+            <l>WHen <hi>Indian</hi> Kings in bloody Battels fall,</l>
+            <l>Their, Wives, &amp; Slaves attend the Funeral,</l>
+            <l>Mounted aloft they ſqueeze a grinning ſmile,</l>
+            <l>Then tumble headlong from the flaming Pile:</l>
+            <l>So when the Pagan-<hi>Obſervator</hi> dies,</l>
+            <l>And little Tories cloſe their Grand-ſirs Eyes,</l>
+            <l>The Orphan'd, poor, Inferior-Crape-gown'd Elves</l>
+            <l>In their own Surſingles ſhould hang themſelves.</l>
+            <l>While Mournful <hi>Sam</hi>'s is daub'd with Scutcheons round,</l>
+            <l>And diſmal Coffee ſcatter'd on the Ground,</l>
+            <l>The <hi>Newgate</hi>-Prieſts come dribling dainty verſe,</l>
+            <l>Blubbring <hi>Joanna</hi> gloats upon the Hearſe;</l>
+            <pb facs="tcp:93117:16"/>
+            <l>Alas! (ſhe ſobs) there lies that brawny He</l>
+            <l>That has ſo many'a time Obſerved me.</l>
+            <l>The Inferiour gaping Devils his fall attend,</l>
+            <l>And wrapt in Crape expect his happy end;</l>
+            <l>He'l find 'em kind; forgive the Devil his due,</l>
+            <l>And <hi>Lucifer</hi>'s an honeſt Tory too,</l>
+            <l>Who can if neceſſary cauſe appears,</l>
+            <l>Go once, or twice to Church in 20 years;</l>
+            <l>Of ev'ry thing on Earth he's the Spectator,</l>
+            <l>And may be term'd a very <hi>Obſervato<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi>
+            </l>
+            <l>The Whiggiſh Angels he would fain pull down,</l>
+            <l>And on his ſooty Highneſs ſet the Crown,</l>
+            <l>
+               <hi>Roger</hi> even there does earn his Penſion well,</l>
+            <l>And bawl's for the Succeſſion, tho in Hell;</l>
+            <l>As Loyal Seamen when they needs muſt go</l>
+            <l>Gargling Huzza's compleat the health below.</l>
+            <l>Good Devil take heed, for if thou careleſs be,</l>
+            <l>
+               <hi>Hodge</hi> will out-lie, out-cheat, out-devil thee.</l>
+            <l>If to the Coffee-Houſes he can run,</l>
+            <l>He'l call thee Whig, and then thou art undone.</l>
+            <l>
+               <hi>Pluto</hi> beware! or he thy Imps will ſham,</l>
+            <l>Corrupt thy Guards, and ſteal away thy Dam,</l>
+            <l>
+               <hi>Towzer</hi> in ſpight of <hi>Cerberus</hi> will paſs,</l>
+            <l>Who'le take th'old Crone for Madam <hi>Baltinglaſs.</hi>
+            </l>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:93117:16"/>
+            <head>Another Epitaph, found in the Cardinal <hi>Van Heſſe</hi>'s Library, and Tranſlated out of <hi>French,</hi> ſuppoſed to be writ by <hi>Noſtre<g ref="char:EOLhyphen"/>damus.</hi>
+            </head>
+            <l>HEre lie Antipendiums, and Fiddles good ſtore,</l>
+            <l>Here lies the old Stallion of the <hi>Roman</hi> old Whore;</l>
+            <l>The Lap-dog of Ladies, and the Wonders delight,</l>
+            <l>Whom Death did like <hi>Topham</hi> to the <hi>Netherlands</hi> fright,</l>
+            <l>The' Inferiour-Clergy (poor Noddies!) will ſtray,</l>
+            <l>Now their Will-a-Wisp-Guide is gone out of the Way.</l>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:93117:17" rendition="simple:additions"/>
+            <head>His Epitaph.</head>
+            <l>Here lies the Man, whom Fate among us Hurl'd,</l>
+            <l>With bombaſts Dialogues to plague the world.</l>
+            <l>Who rather then not vainly keep a pother,</l>
+            <l>Set one ſide of his mouth againſt the other.</l>
+            <l>And bid the Pope believe what wonders He</l>
+            <l>Would work to ſave his falling Monarchy:</l>
+            <l>With that he told a thouſand tales and more,</l>
+            <l>And when his empty reaſon fail'd he ſwore.</l>
+            <l>But falling ſhort of all the brags he made,</l>
+            <l>Here he ſuccumbs in Crape Gown Maſquerade,</l>
+            <l>So let him reſt until the ſecond Change,</l>
+            <l>The bluſtering, but unfortunate <hi>L. S</hi>—</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
